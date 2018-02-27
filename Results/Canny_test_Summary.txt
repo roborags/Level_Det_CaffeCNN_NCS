@@ -1,0 +1,19 @@
+Summary of Files
+#####################
+
+Root path - /home/iot_lab_dnn/Level_Detection_Files/
+Image path - /home/iot_lab_dnn/Level_Detection_Files/
+Canny/Level_Det_Final_Images_Canny/Validate/
+Text files path - /home/iot_lab_dnn/Level_Detection_Files/Canny/
+Image input train file - lev_det_test_Canny.txt
+Image HIT file - Canny_test_Hit.txt
+Format: Filename-Train Level-Found Level
+Image MISS file - Canny_test_Miss.txt
+Format: Filename-Train Level-Found Level-Res out
+
+
+Number of Images = 360
+Hit num = 223
+Hit rate = 61.94
+Miss num = 137
+Miss rate = 38.06
